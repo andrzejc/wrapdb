@@ -1,0 +1,2 @@
+option('build_cxxmph', type: 'boolean', value: false, description: 'Build libcxxmph')
+option('build_tests', type: 'boolean', value: false, description: 'Run tests as a part of build')

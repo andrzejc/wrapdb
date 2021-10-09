@@ -22,5 +22,12 @@
     "build_options": [
       "force_fallback_for=zlib"
     ]
+  },
+  "cmph": {
+    "build_options": [
+      "cmph:build_tests=true",
+      "cmph:build_cxxmph=true",
+      "cmph:default_library=both"
+    ]
   }
 }
